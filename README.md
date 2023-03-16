@@ -2,9 +2,10 @@
 `APP Screenshots`
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Splash screen</td>
+     <td>Register Screen</td>
+     <td>Login Screen</td>
+     <td>About Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/Splash.png" width=270 height=480></td>
