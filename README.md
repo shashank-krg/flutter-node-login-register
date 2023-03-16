@@ -1,10 +1,18 @@
 ## Flutter Node MongoDB Login Registration
 `APP Screenshots`
-![ScreenShot](https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/Splash.png)
-![ScreenShot](https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/Register.png)
-![ScreenShot](https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/login.png)
-![ScreenShot](https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/about.png)
-`Git Clone`
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/Splash.png" width=270 height=480></td>
+    <td><img src="https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/Splash.png" width=270 height=480></td>
+    <td><img src="https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/Splash.png" width=270 height=480></td>
+  </tr>
+ </table>
+
 
 ```
 git clone https://github.com/shashank-krg/flutter-node-login-register.git
