@@ -15,8 +15,8 @@
   </tr>
  </table>
 
-`Working APP`
-[![Watch the video]((https://youtu.be/v-hZ4Xh8CCU))]
+`Working APP Video Please Watch`
+https://youtu.be/v-hZ4Xh8CCU
 
 ```
 git clone https://github.com/shashank-krg/flutter-node-login-register.git
