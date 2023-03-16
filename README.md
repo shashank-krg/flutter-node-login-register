@@ -8,8 +8,9 @@
   </tr>
   <tr>
     <td><img src="https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/Splash.png" width=270 height=480></td>
-    <td><img src="https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/Splash.png" width=270 height=480></td>
-    <td><img src="https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/Splash.png" width=270 height=480></td>
+    <td><img src="https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/Register.png" width=270 height=480></td>
+    <td><img src="https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/login.png" width=270 height=480></td>
+    <td><img src="https://github.com/shashank-krg/flutter-node-login-register/blob/main/AppScreenshots/about.png" width=270 height=480></td>
   </tr>
  </table>
 
